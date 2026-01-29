@@ -72,3 +72,4 @@ pytest tests/
 ## License
 
 MIT
+//test
